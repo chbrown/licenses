@@ -14,17 +14,17 @@ As an example of use, see this project's own License, below, or use one of these
 
 Single year:
 
-    Copyright (c) 2015 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2015).
+    Copyright (c) 2017 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2017).
 
 Span of years:
 
-    Copyright 2013-2015 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2013-2015).
+    Copyright 2013-2017 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2013-2017).
 
 Multiple discrete years:
 
-    Copyright © 2012, 2015 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2012,2015).
+    Copyright © 2012, 2017 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2012,2017).
 
 
 ## License
 
-Copyright (c) 2015-2016 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2015-2016).
+Copyright (c) 2015-2017 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2015-2017).
