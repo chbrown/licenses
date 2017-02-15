@@ -27,6 +27,10 @@ Multiple discrete years:
 
     Copyright © 2012, 2017 Christopher Brown. [MIT Licensed](https://chbrown.github.io/licenses/MIT/#2012,2017).
 
+Eclipse Public License v1.0:
+
+    Copyright © 2017 Christopher Brown. [Eclipse Public License](https://chbrown.github.io/licenses/EPL/).
+
 
 ## License
 
